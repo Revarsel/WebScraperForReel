@@ -28,7 +28,7 @@ from google import genai
 
 NEWS_API_URL = "https://newsapi.org/v2/everything"
 NEWS_API_COUNTRY = "in"
-DEFAULT_TOPIC = "Child Parenting"
+DEFAULT_TOPIC = "Child Parenting In India"
 GEMINI_MODEL_NAME = "gemini-3-flash-preview"
 
 
